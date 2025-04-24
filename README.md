@@ -1,2 +1,3 @@
 # CoordinateSystem
-This is a class that deals with most of the operations that can be performed in any 2D coordinate geometry.
+Distance between two points can be calculated.
+equation of line can be calculated when two points are given.
